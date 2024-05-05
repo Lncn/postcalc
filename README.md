@@ -1,6 +1,7 @@
 # Command Line Postfix Calculator
 
 Simple command line postfix calculator!
+(Real deal: This is a skeleton project with which to interview people)
 
 ## Build
 
